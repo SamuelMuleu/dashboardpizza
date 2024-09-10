@@ -1,7 +1,7 @@
 export function Dashboard (){
 
 return(
-    <h1>ola</h1>
+<div>oi</div>
 )
 
 }
